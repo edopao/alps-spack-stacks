@@ -1,0 +1,6 @@
+name: icon4py
+spack:
+  commit: v0.20.0
+  repo: https://github.com/spack/spack.git
+store: /user-environment
+description: ICON4Py execution environment with GPU support.
